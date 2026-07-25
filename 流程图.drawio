@@ -154,7 +154,7 @@
         <mxCell id="prJBtutVXho4C6Oh0oeT-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标二：当月开户用户数" vertex="1">
           <mxGeometry height="40" width="190" x="1040" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="基数（数量）" vertex="1">
+        <mxCell id="prJBtutVXho4C6Oh0oeT-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="基数（数量）" vertex="1">
           <mxGeometry height="40" width="100" x="1040" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-46" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
@@ -166,16 +166,16 @@
         <mxCell id="prJBtutVXho4C6Oh0oeT-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预存款总额" vertex="1">
           <mxGeometry height="40" width="100" x="1040" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="运算" vertex="1">
+        <mxCell id="prJBtutVXho4C6Oh0oeT-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="运算" vertex="1">
           <mxGeometry height="40" width="80" x="1150" y="680" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="系数（单价）" vertex="1">
+        <mxCell id="prJBtutVXho4C6Oh0oeT-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="系数（单价）" vertex="1">
           <mxGeometry height="40" width="100" x="1240" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1%" vertex="1">
           <mxGeometry height="40" width="100" x="1240" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="保底值" vertex="1">
+        <mxCell id="prJBtutVXho4C6Oh0oeT-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="保底值" vertex="1">
           <mxGeometry height="40" width="100" x="1350" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2元" vertex="1">
@@ -184,7 +184,7 @@
         <mxCell id="prJBtutVXho4C6Oh0oeT-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="乘" vertex="1">
           <mxGeometry height="40" width="80" x="1150" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="封顶值" vertex="1">
+        <mxCell id="prJBtutVXho4C6Oh0oeT-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" value="封顶值" vertex="1">
           <mxGeometry height="40" width="100" x="1460" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6元" vertex="1">
