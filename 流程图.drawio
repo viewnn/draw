@@ -77,31 +77,31 @@
           <mxGeometry height="40" width="120" x="1360" y="400" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="佣金规则" vertex="1">
-          <mxGeometry height="90" width="120" x="830" y="460" as="geometry" />
+          <mxGeometry height="280" width="120" x="830" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="规则一" vertex="1">
-          <mxGeometry height="40" width="60" x="1040" y="460" as="geometry" />
+        <mxCell id="prJBtutVXho4C6Oh0oeT-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="规则一" vertex="1">
+          <mxGeometry height="40" width="60" x="1240" y="460" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预存款 &amp;gt; 200元" vertex="1">
-          <mxGeometry height="40" width="120" x="1110" y="460" as="geometry" />
+          <mxGeometry height="40" width="120" x="1310" y="460" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用户类型=新用户" vertex="1">
-          <mxGeometry height="40" width="120" x="1300" y="460" as="geometry" />
+          <mxGeometry height="40" width="120" x="1500" y="460" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="且" vertex="1">
-          <mxGeometry height="40" width="50" x="1240" y="460" as="geometry" />
+          <mxGeometry height="40" width="50" x="1440" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="规则二" vertex="1">
-          <mxGeometry height="40" width="60" x="1040" y="510" as="geometry" />
+        <mxCell id="prJBtutVXho4C6Oh0oeT-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="规则二" vertex="1">
+          <mxGeometry height="40" width="60" x="1240" y="510" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="入网时长 = 30天" vertex="1">
-          <mxGeometry height="40" width="120" x="1110" y="510" as="geometry" />
+          <mxGeometry height="40" width="120" x="1310" y="510" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="且" vertex="1">
-          <mxGeometry height="40" width="50" x="1240" y="510" as="geometry" />
+          <mxGeometry height="40" width="50" x="1440" y="510" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="是否携转 = 否" vertex="1">
-          <mxGeometry height="40" width="120" x="1300" y="510" as="geometry" />
+          <mxGeometry height="40" width="120" x="1500" y="510" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="条件指标" vertex="1">
           <mxGeometry height="90" width="60" x="970" y="460" as="geometry" />
@@ -110,40 +110,85 @@
           <mxGeometry height="90" width="60" x="970" y="570" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="入网时间 = 当月" vertex="1">
-          <mxGeometry height="40" width="120" x="1490" y="510" as="geometry" />
+          <mxGeometry height="40" width="120" x="1690" y="510" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="且" vertex="1">
-          <mxGeometry height="40" width="50" x="1430" y="510" as="geometry" />
+          <mxGeometry height="40" width="50" x="1630" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标：当月开户用户数" vertex="1">
+        <mxCell id="prJBtutVXho4C6Oh0oeT-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标二：当月开户用户数" vertex="1">
           <mxGeometry height="40" width="190" x="1040" y="620" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="分段" vertex="1">
-          <mxGeometry height="40" width="50" x="1240" y="620" as="geometry" />
+          <mxGeometry height="40" width="60" x="1240" y="620" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="（0~5）户" vertex="1">
-          <mxGeometry height="40" width="120" x="1300" y="620" as="geometry" />
+          <mxGeometry height="40" width="120" x="1310" y="620" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="（50~100）户" vertex="1">
-          <mxGeometry height="40" width="120" x="1430" y="620" as="geometry" />
+          <mxGeometry height="40" width="120" x="1440" y="620" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="（100+）户" vertex="1">
-          <mxGeometry height="40" width="120" x="1560" y="620" as="geometry" />
+          <mxGeometry height="40" width="120" x="1570" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="prJBtutVXho4C6Oh0oeT-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标：月度套餐费用" vertex="1">
+        <mxCell id="prJBtutVXho4C6Oh0oeT-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标一：月度套餐费用" vertex="1">
           <mxGeometry height="40" width="190" x="1040" y="570" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="区间" vertex="1">
-          <mxGeometry height="40" width="50" x="1240" y="570" as="geometry" />
+          <mxGeometry height="40" width="60" x="1240" y="570" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预存款（200~400）" vertex="1">
-          <mxGeometry height="40" width="120" x="1300" y="570" as="geometry" />
+          <mxGeometry height="40" width="120" x="1310" y="570" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预存款（400~600）" vertex="1">
-          <mxGeometry height="40" width="120" x="1430" y="570" as="geometry" />
+          <mxGeometry height="40" width="120" x="1440" y="570" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预存款（600 + ）" vertex="1">
-          <mxGeometry height="40" width="120" x="1560" y="570" as="geometry" />
+          <mxGeometry height="40" width="120" x="1570" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="佣金计算" vertex="1">
+          <mxGeometry height="80" width="60" x="970" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标一：月度套餐费用" vertex="1">
+          <mxGeometry height="40" width="190" x="1040" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标二：当月开户用户数" vertex="1">
+          <mxGeometry height="40" width="190" x="1040" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="基数（数量）" vertex="1">
+          <mxGeometry height="40" width="100" x="1040" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-46" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="90" width="20" x="1820" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="规则：广州_社渠_用户费用佣金" vertex="1">
+          <mxGeometry height="40" width="220" x="1860" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预存款总额" vertex="1">
+          <mxGeometry height="40" width="100" x="1040" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="运算" vertex="1">
+          <mxGeometry height="40" width="70" x="1150" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="系数（单价）" vertex="1">
+          <mxGeometry height="40" width="100" x="1230" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1%" vertex="1">
+          <mxGeometry height="40" width="100" x="1230" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="保底值" vertex="1">
+          <mxGeometry height="40" width="100" x="1340" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2元" vertex="1">
+          <mxGeometry height="40" width="100" x="1340" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="乘" vertex="1">
+          <mxGeometry height="40" width="70" x="1150" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="封顶值" vertex="1">
+          <mxGeometry height="40" width="100" x="1450" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6元" vertex="1">
+          <mxGeometry height="40" width="100" x="1450" y="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
