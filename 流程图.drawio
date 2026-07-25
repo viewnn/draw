@@ -146,7 +146,7 @@
           <mxGeometry height="40" width="120" x="1570" y="570" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="佣金计算" vertex="1">
-          <mxGeometry height="80" width="60" x="970" y="680" as="geometry" />
+          <mxGeometry height="90" width="60" x="970" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="指标一：月度套餐费用" vertex="1">
           <mxGeometry height="40" width="190" x="1040" y="460" as="geometry" />
