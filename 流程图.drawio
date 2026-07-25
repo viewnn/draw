@@ -167,28 +167,34 @@
           <mxGeometry height="40" width="100" x="1040" y="730" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="运算" vertex="1">
-          <mxGeometry height="40" width="70" x="1150" y="680" as="geometry" />
+          <mxGeometry height="40" width="80" x="1150" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="系数（单价）" vertex="1">
-          <mxGeometry height="40" width="100" x="1230" y="680" as="geometry" />
+          <mxGeometry height="40" width="100" x="1240" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="1%" vertex="1">
-          <mxGeometry height="40" width="100" x="1230" y="730" as="geometry" />
+          <mxGeometry height="40" width="100" x="1240" y="730" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="保底值" vertex="1">
-          <mxGeometry height="40" width="100" x="1340" y="680" as="geometry" />
+          <mxGeometry height="40" width="100" x="1350" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="2元" vertex="1">
-          <mxGeometry height="40" width="100" x="1340" y="730" as="geometry" />
+          <mxGeometry height="40" width="100" x="1350" y="730" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="乘" vertex="1">
-          <mxGeometry height="40" width="70" x="1150" y="730" as="geometry" />
+          <mxGeometry height="40" width="80" x="1150" y="730" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="封顶值" vertex="1">
-          <mxGeometry height="40" width="100" x="1450" y="680" as="geometry" />
+          <mxGeometry height="40" width="100" x="1460" y="680" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="6元" vertex="1">
-          <mxGeometry height="40" width="100" x="1450" y="730" as="geometry" />
+          <mxGeometry height="40" width="100" x="1460" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="支付方式" vertex="1">
+          <mxGeometry height="40" width="60" x="970" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="当月计提" vertex="1">
+          <mxGeometry height="40" width="100" x="1040" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
