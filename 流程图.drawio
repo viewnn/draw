@@ -77,7 +77,7 @@
           <mxGeometry height="40" width="120" x="1360" y="400" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="佣金规则" vertex="1">
-          <mxGeometry height="280" width="120" x="830" y="460" as="geometry" />
+          <mxGeometry height="310" width="120" x="830" y="460" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="规则一" vertex="1">
           <mxGeometry height="40" width="60" x="1240" y="460" as="geometry" />
@@ -191,10 +191,13 @@
           <mxGeometry height="40" width="100" x="1460" y="730" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="支付方式" vertex="1">
-          <mxGeometry height="40" width="60" x="970" y="780" as="geometry" />
+          <mxGeometry height="40" width="120" x="830" y="780" as="geometry" />
         </mxCell>
         <mxCell id="prJBtutVXho4C6Oh0oeT-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="当月计提" vertex="1">
-          <mxGeometry height="40" width="100" x="1040" y="780" as="geometry" />
+          <mxGeometry height="40" width="60" x="970" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="prJBtutVXho4C6Oh0oeT-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="满足计提条件后，次月一次性发放全部佣金" vertex="1">
+          <mxGeometry height="40" width="300" x="1040" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
